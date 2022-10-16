@@ -1,0 +1,33 @@
+body {
+    background-color: blue;
+}
+img {
+    border-radius: 30px;
+    border-color: black;
+
+}
+.text {
+    background-color: rgb(161, 65, 27);
+}
+p {
+    color: aliceblue;
+}
+h1 {
+    color: aliceblue;
+    text-align: center;
+}
+h2 {
+    color: aliceblue;
+}
+h3 {
+    color: aliceblue;
+}
+li {
+    color: aliceblue;
+}
+.job{
+    text-align: center;
+}
+html {
+    cursor: pointer;
+}
